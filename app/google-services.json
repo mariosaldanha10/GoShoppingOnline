@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960654775417",
+    "project_id": "goshoppingonline-a5cd3",
+    "storage_bucket": "goshoppingonline-a5cd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960654775417:android:b9ddff605822fa971df0a8",
+        "android_client_info": {
+          "package_name": "com.example.goshoppingonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960654775417-hvl0mrjv7mj23orsgfjcguhh2ei8icv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goshoppingonline",
+            "certificate_hash": "beece57abe38f5d03ecdec9350250a52a7e6cd8e"
+          }
+        },
+        {
+          "client_id": "960654775417-e0nkk2h6ek865j6nmf9ael8tm2ke0vjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaW3ZWU0dclZQiXOU-Ygg_DrNoMc362A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960654775417-e0nkk2h6ek865j6nmf9ael8tm2ke0vjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
