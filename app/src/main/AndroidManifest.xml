@@ -15,20 +15,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GoShoppingOnline">
         <activity
-            android:name=".allActivities.Dashboard"
-            android:exported="false" />
-        <activity
-            android:name=".allActivities.MainActivity2"
+            android:name=".mainActivities.DashboardActivity"
             android:exported="false"
-            android:label="@string/title_activity_main2" />
-        <activity
-            android:name=".allActivities.dashboard"
-            android:exported="false"
-            android:label="@string/title_activity_dashboard" />
-        <activity
-            android:name=".allActivities.DashboardActivity"
-            android:exported="false"
-            android:label="@string/title_activity_dashboard" />
+            android:label="@string/app_name" />
         <activity
             android:name=".mainActivities.UserProfileActivity"
             android:exported="false"
