@@ -35,5 +35,3 @@ Requirements:
 Bonus
 - ViewPager2 with bottom TabLayout for: Shop, Cart, Orders, Profile icons
 - Show a map marker based on the GPS co-ordinates in user profile (Hint: Follow instructions given here)
-
-
